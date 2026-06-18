@@ -13,4 +13,4 @@ whatever
 ![Image alt](https://camo.githubusercontent.com/13ecf8308dd447edcef2bafd36de23b6539b35f24c18be96fd53d12241ec7db0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b)
 
 ## github stats
-[![Efesint GitHub stats](https://github-stats-psiyavushs-projects.vercel.app/api?username=Efesint)](https://github.com/psiyavush/github-stats)
+![Anurag's GitHub stats](https://github-stats-psiyavushs-projects.vercel.app/api?username=Efesint&show_icons=true&theme=radical)
