@@ -17,7 +17,7 @@
 
 ## github stats
 ![Efesint GitHub stats](https://github-stats-psiyavushs-projects.vercel.app/api?username=Efesint&show_icons=true&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Efesint/&theme=dark)](https://git.io/streak-stats)
+
 
 
 
