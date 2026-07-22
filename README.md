@@ -5,6 +5,6 @@
 ![Image alt](https://camo.githubusercontent.com/059aab40d90bcfda8383ed57c655c7ce66d5cd9114228cb757e893f78e05054c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56494d2d2532333131414230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76696d266c6f676f436f6c6f723d7768697465)
 
 ## what i do
-sometimes post cpp shitcode/sometimes post pet-projects for fun, nevermind
+sometimes post cpp shitcode/sometimes post pet-projects for fun
 
 
